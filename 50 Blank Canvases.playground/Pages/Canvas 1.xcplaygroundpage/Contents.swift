@@ -1,10 +1,10 @@
-//: [Previous](@previous) / [Next](@next)
+//: [Next](@next)
 //: # A Blank Canvas
 //:
 //: Use this page to experiment. Have fun!
 /*:
  ## Required code
-
+ 
  The following statements are required to make the playground run.
  
  Please do not remove.
@@ -29,11 +29,11 @@ let canvas = Canvas(width: 400, height: 300)
 /*:
  ## Use source control
  To keep your work organized, and receive feedback, source control is a must.
-
+ 
  Please commit and push your work often.
  
  ![source_control](source_control.png "Source Control")
-*/
+ */
 /*:
  ## Template code
  The code below is necessary to see results in the Assistant Editor at right.
@@ -46,3 +46,5 @@ let canvas = Canvas(width: 400, height: 300)
  */
 // Don't remove the code below
 PlaygroundPage.current.liveView = canvas.imageView
+
+
