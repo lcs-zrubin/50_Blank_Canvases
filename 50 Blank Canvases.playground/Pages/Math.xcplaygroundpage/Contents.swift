@@ -24,7 +24,16 @@ let canvas = Canvas(width: 400, height: 300)
  */
 // Replace this comment with your first comment – what is the goal of the code you're about to write?
 
+// Declare coordinates
 
+let x1 = 300.0
+let x2 = 450.0
+let y1 = 100.0
+let y2 = 500.0
+
+// Find difference
+
+let result = sqrt(pow(x1-x2,2)+pow(y1-y2,2))
 
 /*:
  ## Use source control

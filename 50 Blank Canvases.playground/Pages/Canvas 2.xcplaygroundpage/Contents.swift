@@ -22,7 +22,7 @@ let canvas = Canvas(width: 200, height: 100)
  
  Use whitespace and comments as appropriate.
  */
-// Create a starting point for travelling through Perlin noise space
+// Create a starting point for travelling through Perlin noise spac
 var start = 0.0
 
 //Create a Perlin noise generator
